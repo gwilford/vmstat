@@ -1,0 +1,8 @@
+.*.swp
+*.txt
+*.log
+*.json
+*.rrd
+authkey
+api.config
+*.evt
